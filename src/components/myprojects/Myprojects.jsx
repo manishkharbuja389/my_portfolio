@@ -49,7 +49,7 @@ export default function Myprojects() {
             <img src={IMG4} alt="" />
           </div>
           <h3>HASHONE Campsite</h3>
-          <small className="text-light">ReactJs</small>
+          <small className="text-light">Owner</small>
           <div className="portfolio__item-cta">
             <a
               href="https://www.instagram.com/hashone.campsite/"
